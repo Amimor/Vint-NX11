@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VINT_M8X20", "BINT_M12X40\VINT_M8X20.csproj", "{19EF9D78-AB6D-40F0-A8EA-0C9882629891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EF9D78-AB6D-40F0-A8EA-0C9882629891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EF9D78-AB6D-40F0-A8EA-0C9882629891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EF9D78-AB6D-40F0-A8EA-0C9882629891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EF9D78-AB6D-40F0-A8EA-0C9882629891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F06C318-B07D-47DF-8D45-8081BC896A78}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\VINT_M8X20.dll
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\VINT_M8X20.pdb
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpen.dll
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpen.UF.dll
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpen.Utilities.dll
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpenUI.dll
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpen.xml
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpen.UF.xml
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpen.Utilities.xml
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\NXOpenUI.xml
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\VINT_M8X20.csprojAssemblyReference.cache
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.Form1.resources
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\VINT_M8X20.csproj.GenerateResource.cache
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\VINT_M8X20.csproj.CoreCompileInputs.cache
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\VINT_M8X20.csproj.CopyComplete
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\VINT_M8X20.dll
+C:\Users\Taiso\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\VINT_M8X20.pdb

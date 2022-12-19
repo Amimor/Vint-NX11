@@ -1,0 +1,12 @@
+D:\users\ns-nik\documents\visual studio 2010\Projects\BINT_M12X40\BINT_M12X40\bin\Debug\BINT_M12X40.dll
+D:\users\ns-nik\documents\visual studio 2010\Projects\BINT_M12X40\BINT_M12X40\bin\Debug\BINT_M12X40.pdb
+D:\users\ns-nik\documents\visual studio 2010\Projects\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.dll
+D:\users\ns-nik\documents\visual studio 2010\Projects\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.pdb
+D:\users\ns-nik\documents\visual studio 2010\Projects\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.csprojResolveAssemblyReference.cache
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.csprojResolveAssemblyReference.cache
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.dll
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\BINT_M12X40.dll
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\bin\Debug\BINT_M12X40.pdb
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.pdb
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.Form1.resources
+C:\Users\NS-NIK\Desktop\BINT_M12X40\BINT_M12X40\obj\Debug\BINT_M12X40.csproj.GenerateResource.Cache
